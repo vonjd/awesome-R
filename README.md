@@ -312,6 +312,7 @@ covariates
 models
 * [nnet](http://cran.r-project.org/web/packages/nnet/index.html) - eed-forward Neural Networks and Multinomial Log-Linear Models
 * [oblique.tree](http://cran.r-project.org/web/packages/oblique.tree/index.html) - Oblique Trees for Classification Data
+* [OneR](https://CRAN.R-project.org/package=OneR) - One Rule Machine Learning Classification Algorithm with Enhancements
 * [pamr](http://cran.r-project.org/web/packages/pamr/index.html) - Pam: prediction analysis for microarrays
 * [party](http://cran.r-project.org/web/packages/party/index.html) - A Laboratory for Recursive Partytioning
 * [partykit](http://cran.r-project.org/web/packages/partykit/index.html) - A Toolkit for Recursive Partytioning
